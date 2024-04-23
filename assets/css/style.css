@@ -1,17 +1,37 @@
-
-
-*{
+* {
     background-color: blanchedalmond;
 
 }
-#menu{
-    display:flex;
+
+/* header */
+header {
+    
+}
+
+#menu {
+    display: flex;
     justify-content: space-between;
     list-style-type: none;
 }
+
 /* hero section */
-#hero{
-    height:600px;
-    width:100%;
+#hero {
+    height: 5rem;
+    width: 100%;
     background: url(../../images/leonardo-hero.jpg) no-repeat center center/cover;
 }
+
+
+/* Media query's: */
+
+/* Large or landscape phones */
+@media screen and (min-width:576px) {}
+
+/* tablets and larger */
+@media screen and (min-width:768px) {}
+
+/* large devices (laptops and desktops) */
+@media screen and (min-width: 992px) {}
+
+/* desktops and larger */
+@media screen and (min-width: 1200px) {}
