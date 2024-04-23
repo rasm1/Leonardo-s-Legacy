@@ -27,12 +27,14 @@ header {
 }
 
 /* main content */
-
+main{
+    flex:1 0 auto;
+    background-color: aquamarine;
+}
 /* footer */
 footer{
-    background-color: aqua;
+    background-color: brown;
 }
-
 /* navbar styles dropdown toggle */
 
 nav{
