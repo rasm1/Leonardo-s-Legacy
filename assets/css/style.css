@@ -63,6 +63,12 @@ nav{
 }
 
 
+/* logo */
+#logo{
+    font-family:"Great vibes", sans-serif;
+    letter-spacing:4px;
+}
+
 /* Media query's: */
 
 /* Large or landscape phones */
