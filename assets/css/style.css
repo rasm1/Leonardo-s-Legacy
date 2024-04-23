@@ -21,7 +21,12 @@ font-family: "Sedan", sans-serif;
 /* header */
 header {
   display:flex;
- align-items: baseline;
+ align-items: end;
+ background-color: #DDB7AB;
+position:fixed;
+z-index: 99;
+width:100%;
+box-shadow: 0 2px 2px #3a3a3a;
 }
 
 #menu {
@@ -42,9 +47,7 @@ footer{
 /* navbar styles dropdown toggle */
 
 nav{
-    position:absolute;
-    display:none;
-   
+    display:none;  
 }
 
 #nav-toggle{
@@ -56,12 +59,13 @@ nav{
 }
 
 /* hero section */
+/*
 #hero {
     height: 5rem;
     width: 100%;
     background: url(../../images/leonardo-hero.jpg) no-repeat center center/cover;
 }
-
+*/
 
 /* logo */
 #logo{
