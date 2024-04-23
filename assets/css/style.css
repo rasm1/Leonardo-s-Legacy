@@ -1,3 +1,4 @@
+
 * {
     background-color: blanchedalmond;
 
@@ -5,13 +6,30 @@
 
 /* header */
 header {
-    
+  display:flex;
+ align-items: baseline;
 }
 
 #menu {
-    display: flex;
-    justify-content: space-between;
     list-style-type: none;
+    font-size:110%;
+    letter-spacing: 1px;
+}
+
+/* navbar styles dropdown toggle */
+
+nav{
+    position:absolute;
+    display:none;
+   
+}
+
+#nav-toggle{
+    display:none;
+}
+
+#nav-toggle:checked~nav{
+    display: block;
 }
 
 /* hero section */
