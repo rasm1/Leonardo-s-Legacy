@@ -10,55 +10,68 @@
     box-sizing: border-box;
 
 }
+
 /* general styles */
-body{
-min-height: 100vh;
-display:flex;
-flex-direction: column;
-font-family: "Sedan", sans-serif;
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: "Sedan", sans-serif;
 }
 
 /* header */
 header {
-  display:flex;
- align-items: end;;
-position:fixed;
-z-index: 99;
-width:100%;
-box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    align-items: end;
+    ;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
-header a{
- text-decoration: none;  
- color:inherit; 
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
 #menu {
     list-style-type: none;
-    font-size:110%;
+    font-size: 110%;
     letter-spacing: 1px;
 }
 
+#menu > li{
+font-size: 20px;
+}
+
+/* BUG, does appear in most devices but not in galaxy fold*/
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* main content */
-main{
-    flex:1 0 auto;
+main {
+    flex: 1 0 auto;
     background-color: aquamarine;
 }
+
 /* footer */
-footer{
+footer {
     background-color: brown;
 }
+
 /* navbar styles dropdown toggle */
 
-nav{
-    display:none;  
+nav {
+    display: none;
 }
 
-#nav-toggle{
-    display:none;
+#nav-toggle {
+    display: none;
 }
 
-#nav-toggle:checked~nav{
+#nav-toggle:checked~nav {
     display: block;
 }
 
@@ -72,9 +85,9 @@ nav{
 */
 
 /* logo */
-#logo{
-    font-family:"Great vibes", sans-serif;
-    letter-spacing:3px;
+#logo {
+    font-family: "Great vibes", sans-serif;
+    letter-spacing: 3px;
 }
 
 /* Media query's: */
