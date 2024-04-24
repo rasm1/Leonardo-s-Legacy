@@ -63,8 +63,18 @@ main {
 }
 
 /* footer */
-footer {
-    background-color: brown;
+.social-networks{
+text-align:center;
+padding: 20px;
+display:flex;
+justify-content: space-evenly;
+list-style-type: none;
+}
+
+
+.social-networks  li{
+    font-size: 160%;
+    color: black;
 }
 
 /* navbar styles dropdown toggle */
@@ -136,4 +146,5 @@ nav {
 @media screen and (min-width: 1200px) {}
 
 /* TODO: make dropdown  appear to right side of  logo 
-    Make List item dropdown stick to side of header*/
+    Make List item dropdown stick to side of header
+    color footer needs to change*/
