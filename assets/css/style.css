@@ -19,6 +19,11 @@ body {
     font-family: "Sedan", sans-serif;
 }
 
+    main{
+        padding-top: 30px;
+    }
+
+
 /* header */
 header {
     position: fixed;
@@ -167,7 +172,9 @@ nav {
 /* Media query's: */
 
 /* Large or landscape phones */
-@media screen and (min-width:576px) {}
+@media screen and (min-width:576px) {
+  
+}
 
 /* tablets and larger */
 @media screen and (min-width:768px) {
