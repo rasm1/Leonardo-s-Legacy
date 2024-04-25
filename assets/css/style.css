@@ -58,21 +58,25 @@ header a {
 /* main content */
 main {
     flex: 1 0 auto;
-    background-color: aquamarine;
     margin-top: 47px;
 }
 
 /* footer */
-.social-networks{
-text-align:center;
-padding: 20px;
-display:flex;
-justify-content: space-evenly;
-list-style-type: none;
+footer{
+   
+}
+.social-networks {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color:#CE7012;
+    box-shadow: 0 -2px 2px #3a3a3a;
 }
 
 
-.social-networks  li{
+.social-networks li {
     font-size: 160%;
     color: black;
 }
@@ -113,24 +117,26 @@ nav {
 
 /* tablets and larger */
 @media screen and (min-width:768px) {
-    header{
-        display:flex;
+    header {
+        display: flex;
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
     }
-    header li{
+
+    header li {
         padding-left: 1rem;
         padding-right: 1rem;
     }
-    .nav-toggle-label{
+
+    .nav-toggle-label {
         display: none;
     }
 
     nav {
         display: block;
         width: fit-content;
-        
+
     }
 
     #menu {
