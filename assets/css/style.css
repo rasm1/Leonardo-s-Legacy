@@ -123,6 +123,17 @@ main {
     margin-top: 47px;
 }
 
+.noteworthy-inventions {
+display:flex;
+flex-direction: row;
+align-items: center;
+}
+
+.noteworthy-inventions img{
+    width: 50%;
+    length:50%;
+}
+
 /* footer */
 footer{
    
