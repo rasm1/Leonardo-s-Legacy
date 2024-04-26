@@ -123,13 +123,13 @@ main {
     margin-top: 47px;
 }
 
-.noteworthy-inventions {
+.important-inventions {
 display:flex;
 flex-direction: row;
 align-items: center;
 }
 
-.noteworthy-inventions img{
+.important-inventions img{
     width: 50%;
     length:50%;
 }
