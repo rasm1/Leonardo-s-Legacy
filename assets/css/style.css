@@ -144,9 +144,10 @@ footer{
 
 /* navbar styles dropdown toggle */
 
+/* toggles nav display on & off */
 nav {
     display: none;
-}
+} 
 
 #nav-toggle {
     display: none;
