@@ -92,45 +92,48 @@ header a {
 }
 
 /* gallery section */
+
 #paintings ul{
     display:flex;
-    flex-direction: collumn;
-    
+    flex-wrap: wrap;
 }
 
 #paintings li{
-    height:40vh;
-    flex-grow: 1;
+    height: 40vh;
+    flex-grow:1;
 }
 
 #paintings img{
     max-height:100%;
-    max-width:100%;
+    min-width:100%;
     object-fit: cover;
     vertical-align: bottom;
 }
+
+#paintings li:last-child{
+    flex-grow:10;
+}
+
 #inventions ul{
     display:flex;
-    flex-direction: collumn;
-    
+    flex-wrap: wrap;
 }
 
 #inventions li{
-    height:40vh;
-    flex-grow: 1;
+    height: 40vh;
+    flex-grow:1;
 }
 
 #inventions img{
     max-height:100%;
-    max-width:100%;
+    min-width:100%;
     object-fit: cover;
     vertical-align: bottom;
 }
-/*
-#paintings li:last-child{
+
+#inventions li:last-child{
     flex-grow:10;
 }
-*/
 
 /* BUG, does appear in most devices but not in galaxy fold*/
 .active {
