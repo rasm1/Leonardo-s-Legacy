@@ -201,6 +201,7 @@ footer{
    
 }
 .social-networks {
+    background-color: #3a3a3a;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -212,7 +213,7 @@ footer{
 /* BUG, color for icons gets overridden to blue*/
 .social-networks li {
     font-size: 160%;
-    color: black;
+    color: #fafafa;
 }
 
 /* navbar styles dropdown toggle */
