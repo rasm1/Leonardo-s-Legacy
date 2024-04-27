@@ -5,11 +5,12 @@
 /* wildcard selector to ovveride default browser setting*/
 * {
     
-    z-index: 4;
+    
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     text-align: center;
+    font-size: 18px;
 
 }
 
@@ -184,6 +185,7 @@ nav {
 #logo {
     font-family: "Great vibes", sans-serif;
     letter-spacing: 3px;
+    font-size: 280%;
 }
 
 /* Media query's: */
