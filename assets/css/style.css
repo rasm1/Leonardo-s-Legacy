@@ -3,15 +3,11 @@
 
 
 /* wildcard selector to ovveride default browser setting*/
-* {
-    
-    
+* {  
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    text-align: center;
-    
-
+    text-align: center; 
 }
 
 /* general styles */
@@ -49,6 +45,24 @@ header {
     padding-left: 10px;
 }
 
+/* noteworth creations */
+.text{
+padding: 0 20px;
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+line-height: 20px;;
+}
+
+
+.image{
+   width:60%;
+   height:40%;
+   margin-bottom: 20px;
+
+}
 #signup{
 margin-top: 50px;
 }
