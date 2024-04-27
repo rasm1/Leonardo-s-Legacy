@@ -67,7 +67,7 @@ line-height: 20px;;
 
 /* signup section */
 #signup{
-background-image:url(/assets/css/images/signup-image.jpg );
+background-image:url(../css/images/signup-image.jpg);
 background-size: cover;
 background-position: 75%;
 height:100vh;
@@ -96,7 +96,7 @@ padding: 20px 10% 0 10%;
     border: 1px solid #fafafa;
     border-radius: 2px;   
     padding: 0 5px;
-    padding-bottom: 10px;
+    
 }
 
 #introduction ul{
