@@ -46,14 +46,14 @@ header {
     padding-left: 10px;
 }
 
-/* noteworth creations */
+/* noteworthy creations */
 .text{
 padding: 0 20px;
 display: block;
 margin-block-start: 1em;
 margin-block-end: 1em;
-margin-inline-start: 0px;
-margin-inline-end: 0px;
+margin-inline-start: 15em;
+margin-inline-end: 15em;
 line-height: 20px;;
 }
 
@@ -192,8 +192,11 @@ align-items: center;
 }
 
 .important-inventions img{
-    width: 70%;
-    height:50%;
+    height: 200%;
+    width:200%;
+    background-size: cover;
+    background-color: grey;
+    border-radius: 20%;
 }
 
 /* footer */
