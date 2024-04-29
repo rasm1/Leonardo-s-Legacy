@@ -131,16 +131,7 @@ main {
 }
 
 
-#cover-text {
-    background-color: burlywood;
-    font-size: 120%;
-    position: absolute;
-    bottom: 30px;
-    width: 35%;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-}
+
 
 .text-input {
     background: transparent;
@@ -162,60 +153,30 @@ main {
     color: #fafafa;
 }
 
-
-/* noteworthy creations */
-.text {
-    padding: 0 20px;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 15em;
-    margin-inline-end: 15em;
-    line-height: 20px;
-    ;
+/* hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../css/images/leonardo-hero.jpg) no-repeat center center/cover;
+    position: relative;
 }
 
-
-
-
-
-
-
-
-
-
-#introduction h2 {
-    text-align: center;
+#cover-text {
+    background-color: burlywood;
+    font-size: 120%;
+    position: absolute;
+    bottom: 30px;
+    width: 35%;
+    /* width: 80%; */
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
 }
 
-
-#introduction p {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    width: auto;
+#cover-text > h2{
+    text-transform: uppercase;
+    padding-bottom: 5px;
 }
-
-#early-life h2 {
-    text-align: center;
-}
-
-#early-life p {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    width: auto;
-}
-
-#noteworthy-inventions h2 {
-    text-align: center;
-    padding-bottom: 25px;
-}
-
-hr {
-    color: black;
-}
-
-
-
 
 
 /* gallery section */
@@ -263,12 +224,6 @@ hr {
 }
 
 
-
-
-
-
-
-
 .important-inventions {
     display: flex;
     flex-direction: row;
@@ -286,6 +241,62 @@ hr {
 .text>h2 {
     margin-bottom: 25px;
 }
+
+/* noteworthy creations */
+.text {
+    padding: 0 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 15em;
+    margin-inline-end: 15em;
+    line-height: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+#introduction h2 {
+    text-align: center;
+}
+
+
+#introduction p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    width: auto;
+}
+
+#early-life h2 {
+    text-align: center;
+}
+
+#early-life p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    width: auto;
+}
+
+#noteworthy-inventions h2 {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+hr {
+    color: black;
+}
+
+
+
+
+
 
 /* footer */
 footer {}
@@ -314,14 +325,7 @@ footer {}
 
 
 
-/* hero image */
-#hero {
-    height: 600px;
-    width: 100%;
-    background: url(../css/images/leonardo-hero.jpg) no-repeat center center/cover;
-    position: relative;
 
-}
 
 
 /* logo */
