@@ -58,12 +58,7 @@ line-height: 20px;;
 }
 
 
-.image{
-   width:60%;
-   height:40%;
-   margin-bottom: 20px;
 
-}
 
 /* signup section */
 #signup{
@@ -99,9 +94,17 @@ padding: 20px 10% 0 10%;
     
 }
 
-#introduction ul{
-    list-style-type: circle;
+#introduction p{
+margin-block-start: 1em;
+margin-block-end: 1em;
+width:auto;
 }
+
+#early-life p{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    width:auto;
+    }
 
 hr{
     color:black;
@@ -192,11 +195,15 @@ align-items: center;
 }
 
 .important-inventions img{
-    height: 200%;
-    width:200%;
+    height: 75vh;
+    width:50vw;
     background-size: cover;
     background-color: grey;
     border-radius: 20%;
+}
+
+.text > h2{
+    margin-bottom: 25px;
 }
 
 /* footer */
