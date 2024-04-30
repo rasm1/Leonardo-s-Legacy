@@ -132,13 +132,13 @@ main {
     margin-block-start: 1em;
     margin-block-end: 1em;
     width: auto;
-    padding:5px 10%;
+    padding: 5px 10%;
 }
 
 
- p::first-letter{
-font-size: 40px;
-font-weight: 500;
+p::first-letter {
+    font-size: 40px;
+    font-weight: 500;
 }
 
 
@@ -234,12 +234,14 @@ hr {
 
 
 /* gallery section */
-#paintings h2, #inventions h2{
+#paintings h2,
+#inventions h2 {
     padding-top: 1em;
     padding-bottom: 1em;
     text-align: center;
     font-size: 150%;
 }
+
 #paintings ul {
     display: flex;
     flex-wrap: wrap;
@@ -257,8 +259,8 @@ hr {
     vertical-align: bottom;
 }
 
-#lady-ermine{
-    object-fit:fill !important;
+#lady-ermine {
+    object-fit: fill !important;
 }
 
 #paintings li:last-child {
@@ -280,7 +282,7 @@ hr {
     min-width: 100%;
     object-fit: cover;
     vertical-align: bottom;
-    
+
 }
 
 #inventions li:last-child {
@@ -306,6 +308,22 @@ hr {
     margin-bottom: 25px;
 }
 
+/* thank you page*/
+
+#thank-you{
+    background-image: url(../css/images/great-people.jpg);
+    background-size: cover;
+    background-position: 75%;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    padding: 20px 10% 0 10%;
+
+}
+#thank-you h1{
+    padding:5%;
+    text-align: center;
+    color:#ffffff
+}
 
 /* footer */
 footer {
@@ -335,14 +353,15 @@ footer {
 /* Media query's: */
 
 @media (max-height: 480px) {
-    #paintings li, #inventions li {
-      height: 80vh;
+
+    #paintings li,
+    #inventions li {
+        height: 80vh;
     }
-  }
-/* Large or landscape phones (576px and up)*/
-@media screen and (min-width:576px) {
-    
 }
+
+/* Large or landscape phones (576px and up)*/
+@media screen and (min-width:576px) {}
 
 /* tablets and larger  (768px and up)*/
 @media screen and (min-width:768px) {
@@ -397,7 +416,7 @@ footer {
     }
 
 
-    #signup{
+    #signup {
         background-position: center;
         position: relative;
     }
@@ -406,7 +425,7 @@ footer {
         border-color: #FF8B17;
     }
 
-    .join-button:hover{
+    .join-button:hover {
         background-color: #fafafa;
         color: #3a3a3a;
     }
@@ -420,30 +439,30 @@ footer {
         text-align: center;
         font-size: 280%;
         line-height: 50px;
-    
+
     }
-    
+
     .important-inventions {
-    line-height: 20px;
-    margin-bottom: 20px;
-}
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
 
-hr {
-    border-top: 1px solid #3a3a3a;
-    margin: 5px 0;
-}
+    hr {
+        border-top: 1px solid #3a3a3a;
+        margin: 5px 0;
+    }
 
-.important-inventions img{
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    max-width: 350px;
-    max-height: 350px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-   
+    .important-inventions img {
+        height: 90vw;
+        width: 90vw;
+        margin-bottom: 20px;
+        max-width: 350px;
+        max-height: 350px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 }
 
 /* large devices (laptops and desktops, 992px and up) */
@@ -454,51 +473,52 @@ hr {
 }
 
 /* desktops and larger (1200px and up) */
-@media screen and (min-width: 1200px) {
-
-}
+@media screen and (min-width: 1200px) {}
 
 /* portrait mode (screen wider than it is tall)*/
 @media (max-aspect-ratio: 1/1) {
-    #paintings li, #inventions li {
-      height: 30vh;
+
+    #paintings li,
+    #inventions li {
+        height: 30vh;
     }
-  }
+}
 
-  @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
-  ul {
-    flex-direction: row;
-  }
+@media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+    ul {
+        flex-direction: row;
+    }
 
-  li {
-    height: auto;
-    width: 100%;
-  }
+    li {
+        height: auto;
+        width: 100%;
+    }
 
-  img {
-    width: 100%;
-    max-height: 75vh;
-    min-width: 0;
-  }
+    img {
+        width: 100%;
+        max-height: 75vh;
+        min-width: 0;
+    }
 }
 
 /* small screens + landscape*/
 @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
     ul {
-      flex-direction: row;
+        flex-direction: row;
     }
-  
+
     li {
-      height: auto;
-      width: 100%;
+        height: auto;
+        width: 100%;
     }
-  
+
     img {
-      width: 100%;
-      max-height: 75vh;
-      min-width: 0;
+        width: 100%;
+        max-height: 75vh;
+        min-width: 0;
     }
-  }
+}
+
 /*  
    
    
