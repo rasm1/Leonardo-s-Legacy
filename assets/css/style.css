@@ -45,7 +45,9 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+   
+    align-items: center;
+
 }
 
 header a {
@@ -269,8 +271,8 @@ hr {
 }
 
 .important-inventions img {
-    height: 75vh;
-    width: 50vw;
+    height: 75%;
+    width: 100%;
     background-size: cover;
     background-color: grey;
     border-radius: 20%;
@@ -295,7 +297,7 @@ footer {
 
 .social-networks li {
     font-size: 160%;
-    color: #fafafa;
+    color: #ffffff;
 }
 
 
@@ -308,32 +310,12 @@ footer {
 
 /* Media query's: */
 
-/* Large or landscape phones */
+/* Large or landscape phones (576px and up)*/
 @media screen and (min-width:576px) {}
 
-/* tablets and larger */
+/* tablets and larger  (768px and up)*/
 @media screen and (min-width:768px) {
-    header {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    header li {
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
-    .nav-toggle-label {
-        display: none;
-    }
-
     nav {
-        /* display: block;
-        width: fit-content;
-        */
-
         display: block;
         position: relative;
         box-shadow: none;
@@ -344,8 +326,22 @@ footer {
 
     #menu {
         display: flex;
-        flex-direction: row;
     }
+
+
+  
+    header li {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+   
+
+   
 }
 
 /* large devices (laptops and desktops) */
