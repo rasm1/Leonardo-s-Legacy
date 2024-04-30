@@ -7,7 +7,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 
 /* general styles */
@@ -15,7 +14,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
     font-size: 18px;
     color: #3a3a3a;
 }
@@ -97,7 +95,6 @@ nav {
 }
 
 /* Main content */
-
 main {
     /* Make main element take up any surplus space to push footer down */
     padding-top: 18px;
@@ -106,6 +103,50 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+/* noteworthy creations section */
+.text {
+    padding: 0 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 15em;
+    margin-inline-end: 15em;
+    line-height: 20px;
+
+}
+
+
+#introduction h2 {
+    text-align: center;
+}
+
+
+#introduction p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    width: auto;
+}
+
+#early-life h2 {
+    text-align: center;
+}
+
+#early-life p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    width: auto;
+}
+
+#noteworthy-inventions h2 {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+hr {
+    color: black;
+}
+
 
 /* signup section */
 #signup {
@@ -131,8 +172,6 @@ main {
 }
 
 
-
-
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -144,7 +183,7 @@ main {
     padding: 0 5px;
 }
 
-.join-button{
+.join-button {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px;
@@ -173,14 +212,13 @@ main {
     padding-left: 10px;
 }
 
-#cover-text > h2{
+#cover-text>h2 {
     text-transform: uppercase;
     padding-bottom: 5px;
 }
 
 
 /* gallery section */
-
 #paintings ul {
     display: flex;
     flex-wrap: wrap;
@@ -242,90 +280,23 @@ main {
     margin-bottom: 25px;
 }
 
-/* noteworthy creations */
-.text {
-    padding: 0 20px;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 15em;
-    margin-inline-end: 15em;
-    line-height: 20px;
-    
-}
-
-
-
-
-
-
-
-
-
-
-#introduction h2 {
-    text-align: center;
-}
-
-
-#introduction p {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    width: auto;
-}
-
-#early-life h2 {
-    text-align: center;
-}
-
-#early-life p {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    width: auto;
-}
-
-#noteworthy-inventions h2 {
-    text-align: center;
-    padding-bottom: 25px;
-}
-
-hr {
-    color: black;
-}
-
-
-
-
-
 
 /* footer */
-footer {}
-
-.social-networks {
-    background-color: #3a3a3a;
-    text-align: center;
-    padding: 20px;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    box-shadow: 0 -2px 2px #3a3a3a;
+footer {
+    .social-networks {
+        text-align: center;
+        padding: 20px 0;
+        background-color: #3a3a3a;
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
 }
 
-/* BUG, color for icons gets overridden to blue*/
 .social-networks li {
     font-size: 160%;
     color: #fafafa;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* logo */
