@@ -31,12 +31,6 @@ h3 {
 
 /* header */
 header {
-    /*  background-color: #ffffff;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a; */
-
     background-color: #ffffff;
     padding: 0 1rem;
     position: fixed;
@@ -45,9 +39,7 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
-
     align-items: center;
-
 }
 
 header a {
@@ -113,7 +105,7 @@ main {
 /* noteworthy creations section */
 
 /* makes it so overflow doesnt create sidescroll bar*/
-.important-inventions{
+.important-inventions {
     overflow: hidden;
 }
 
@@ -302,7 +294,7 @@ hr {
     align-items: center;
 }
 
-#last-supper{
+#last-supper {
     flex-direction: column-reverse;
 }
 
@@ -320,7 +312,7 @@ hr {
 
 /* thank you page*/
 
-#thank-you{
+#thank-you {
     background-image: url(../css/images/great-people.jpg);
     background-size: cover;
     background-position: 75%;
@@ -329,10 +321,11 @@ hr {
     padding: 20px 10% 0 10%;
 
 }
-#thank-you h1{
-    padding:5%;
+
+#thank-you h1 {
+    padding: 5%;
     text-align: center;
-    color:#ffffff
+    color: #ffffff
 }
 
 /* footer */
@@ -417,7 +410,7 @@ footer {
         flex-direction: row;
     }
 
-    #last-supper{
+    #last-supper {
         flex-direction: row;
     }
 
@@ -532,8 +525,3 @@ footer {
         min-width: 0;
     }
 }
-
-/*  
-   
-   
-   see if alt descriptions in gallery can be improved*/
