@@ -228,6 +228,7 @@ hr {
 #cover-text>h2 {
     text-transform: uppercase;
     padding-bottom: 5px;
+    font-size: 30px;
 }
 
 
@@ -405,14 +406,6 @@ footer {
         right: 50px;
     }
 
-    .important-inventions {
-        display: flex;
-        flex-direction: row;
-    }
-
-    #last-supper {
-        flex-direction: row;
-    }
 
     /* signup */
     #signup-form {
@@ -476,6 +469,15 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+
+    .important-inventions {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #last-supper {
+        flex-direction: row;
     }
 }
 
