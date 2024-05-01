@@ -111,6 +111,8 @@ main {
 }
 
 /* noteworthy creations section */
+
+/* makes it so overflow doesnt create sidescroll bar*/
 .important-inventions{
     overflow: hidden;
 }
@@ -300,6 +302,10 @@ hr {
     align-items: center;
 }
 
+#last-supper{
+    flex-direction: column-reverse;
+}
+
 .important-inventions img {
     height: 75%;
     width: 100%;
@@ -408,6 +414,10 @@ footer {
 
     .important-inventions {
         display: flex;
+        flex-direction: row;
+    }
+
+    #last-supper{
         flex-direction: row;
     }
 
