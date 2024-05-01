@@ -162,7 +162,7 @@ hr {
 /* signup section */
 #signup {
     background-image: url(../css/images/signup-image.jpg);
-    background-size: auto cover;
+    background-size: cover;
     background-position: 75%;
     flex-grow: 1;
     padding: 20px 10% 0 10%;
@@ -335,7 +335,7 @@ hr {
 }
 
 /* footer */
-footer {
+
     .social-networks {
         text-align: center;
         padding: 20px 0;
@@ -344,7 +344,7 @@ footer {
         justify-content: space-evenly;
         list-style-type: none;
     }
-}
+
 
 .social-networks li {
     font-size: 160%;
