@@ -111,6 +111,10 @@ main {
 }
 
 /* noteworthy creations section */
+.important-inventions{
+    overflow: hidden;
+}
+
 .text {
     padding: 0 20px;
     display: block;
