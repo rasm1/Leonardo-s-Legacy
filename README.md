@@ -9,7 +9,7 @@ he site also provides some basic knowledge about who da Vinci is and what his ea
 
 The website also contains a form in which users can submit their email to be redirected to other websites where they can learnabout the legacy of other great people.
 
- Links to our socials media is included in the footer of the page.
+ Links to our social media is included in the footer of the page.
 
 
 ![Am I Responsive](assets/css/images/mockup-image.png)
@@ -47,7 +47,6 @@ The information is structured in such a way that it can be clearly understood an
 </ul>
 
 ## features
-<hr>
 
 <ul>   
 	<li>This website targets people who want to learn more about Leonardo da Vinci.</li>
@@ -63,7 +62,7 @@ The information is structured in such a way that it can be clearly understood an
 <ul>   
 	<li>It is featured and fixed on all three pages and on the thank-you page (seen once the form has been filled in)</li>
 	<li>Includes links to the logo, home page, gallery and sign up page and is identical in each page to allow for easy navigation.</li>
-	<li>This header will allow the user to easily navigate from page to page across all devices without having to use the 'back button' to go to the previous page.</li>
+	<li>This navigation bar will allow the user to easily navigate from page to page across all devices without having to use the 'back button' to go to the previous page.</li>
 	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>	
 </ul>
 
@@ -81,8 +80,8 @@ The information is structured in such a way that it can be clearly understood an
 
 #### Introduction Section
 <ul>
-		<li>This section is meant to introduce da Vinci and tell the users about what who he is, what he is known for. And what makes him so special</li>
-		<li>This section is valueable because it introduces the user to the person who the biography is about. Furthermore it gets the user interested in actually learning more about him.</li>
+		<li>This section is meant to introduce da Vinci and tell the users about what who he is, what he is known for. And what makes him stand out</li>
+		<li>This section is valuable because it introduces the user to the person who the biography is about. Furthermore it gets the user interested in actually learning more about him</li>
 </ul>
 
 ![introduction-section](assets/css/images/introduction.png)
@@ -90,23 +89,23 @@ The information is structured in such a way that it can be clearly understood an
 #### Early Life Section
 <ul>
 		<li>This section is meant to inform the user about the early life of leonardo da vinci. </li>
-		<li>The user learns about the birthplace of da Vinci and what his formative years looked like. </li>
-        <li>The user also learns what competencies da Vinci posessed from his ealy life which aided him greatly in defining who he would later become</li>
+		<li>The user learns what the birthplace of da Vinci is and what his formative years looked like. </li>
+        <li>The user also learns what competencies da Vinci posessed from an early age which aided him greatly in defining who he would later become</li>
 </ul>
 
 ![early-life-section](assets/css/images/early-life.png)
 
 #### Noteworthy Creations Section
 <ul>
-	<li>In this section the user will learn what da Vinci's most famous creations were. </li>
-    <li>The user will learn more about what these creations entailed and how they were made.</li>
+	<li>In this section the user will learn what da Vinci's most noteworthy creations are </li>
+    <li>The user will learn more about what these creations entailed and how they were made</li>
 </ul>		
 
 ![noteworthy-creations-section](assets/css/images/noteworthy-creations.png)
 
 #### Footer
 <ul>
-		<li>The footer section includes links to the relevant social media sites for Leonardo's Legacy. These links will open in a new tab to allow fgor easy navigation for the user</li>
+		<li>The footer includes links to the relevant social media platforms for Leonardo's Legacy. These links will open in a new tab to allow fgor easy navigation for the user</li>
 		<li>The footer is valuable to the user because it provides a way for the user to stay connected via social media.</li>
 </ul>	
 
@@ -125,7 +124,8 @@ The information is structured in such a way that it can be clearly understood an
 #### Sign Up page
 <ul>
 		<li>This page will allow the user to get signed up for additional information about great people's legacies.</li>
-		<li>The user will be able to specify what person they are interested in or if they are interested at all. The user will be asked to submit
+		<li>The user will be able to specify what person they are interested in or if they are interested at all. </li>
+       <li> The user will be asked to submit
 		their full name and email address.</li>
 </ul>
 
@@ -144,8 +144,6 @@ The information is structured in such a way that it can be clearly understood an
 	<li>another section about da Vinci's last years alive.</li>
 	</li>In the thank you page, there would be a clickable link that would redirect the user to a legacy page about diffrent great people (example: Albert Einstein)</li>
 </ul>	
-
-
 
 
 ## Design
