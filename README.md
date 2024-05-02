@@ -1,46 +1,43 @@
 # Leonardo's Legacy
 
-Leonardo's Legacy is a biography website to designed commemorate the life of Leonardo da Vinci. 
+Leonardo's Legacy is a biography website to designed commemorate the life and works of Leonardo da Vinci. 
+
 The website mainly targets users who are already aware of who da Vinci is and want to learn more about him.
-The goal of Leonardo's Legacy is to inform, impress and inspire the user by showing off various paintings and inventions
-made by Leonardo da Vinci. The site also provides some basic knowledge about who da Vinci is and what his early years looked like.
-The website also contains a form in which users can submit their email to be redirected to other websites where they can learn
-about the legacy of other great people. Links to our socials media is included in the footer of the page.
+
+The goal of Leonardo's Legacy is to inform, impress and inspire the user by showing off various paintings and inventionsmade by Leonardo da Vinci. T
+he site also provides some basic knowledge about who da Vinci is and what his early years looked like.
+
+The website also contains a form in which users can submit their email to be redirected to other websites where they can learnabout the legacy of other great people.
+
+ Links to our socials media is included in the footer of the page.
 
 
-AMIRESPONSIVE PIC
+![Am I Responsive](assets/css/images/mockup-image.png)
 
-[View the live project here](https://rasm1.github.io/Leonardo-s-Legacy/index.html)
+[View Leonardo's Legacy project here](https://rasm1.github.io/Leonardo-s-Legacy/index.html)
 
+## features
+<hr>
 
-(## Table of Contents) auto generated
+<ul>   
+	<li>This website targets people who want to learn more about Leonardo da Vinci.</li>
+	<li>This can be done by reading the information provided on the homepage and browsing through the gallery.</li>
+	 <li>If users want to learn more about other great people they can navigate to the signup form through the navigation bar in the header
+	 to sign up for more information about other great people. </li>
+	 <li>Responsive on all device sizes.</li>
+</ul>
 
+### Existing Features
 
-### User Experience (UX)
+<strong>Navigation Bar</strong>
+<ul>   
+	<li>It is featured and fixed on all three pages and on the thank-you page (seen once the form has been filled in)</li>
+	<li>Includes links to the logo, home page, gallery and sign up page and is identical in each page to allow for easy navigation.</li>
+	<li>This header will allow the user to easily navigate from page to page across all devices without having to use the 'back button' to go to the previous page.</li>
+	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>
+	
+</ul>
 
-	-User stories
-
-
-
-### Features
-	-existing features
-
-
-### features
-
-	-This website targets people who want to learn more about Leonardo da Vinci.
-	-This can be done by reading the information provided on the homepage and browsing through the gallery.
-	-If users want to learn more about other great people they can navigate to the signup form through the navigation bar in the header
-	 to sign up for more information about other great people.
-	- Responsive on all device sizes.
-
-	####Existing features
-	- Navigation bar
-		-It is featured and fixed on all three pages and on the thank-you page (seen once the form has been filled in)
-		-Includes links to the logo, home page, gallery and sign up page and is identical in each page to allow for easy navigation.
-		-This section will allow the user to easily navigate from page to page across all devices without having to use the 'back button' to go to the previous page.
-		
-		-To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.
 
 		(picture of navigation bar)
 		(picture of dropdown menu)

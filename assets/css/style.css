@@ -113,8 +113,8 @@ main {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 15em;
-    margin-inline-end: 15em;
+    margin-inline-start: 1em;
+    margin-inline-end: 1em;
     line-height: 20px;
 }
 
@@ -194,9 +194,9 @@ hr {
     padding: 0 5px;
 }
 
-.radio-buttons{
-    width:100%;
-    display:flex;
+.radio-buttons {
+    width: 100%;
+    display: flex;
     justify-content: space-between;
 }
 
@@ -336,14 +336,14 @@ hr {
 
 /* footer */
 
-    .social-networks {
-        text-align: center;
-        padding: 20px 0;
-        background-color: #3a3a3a;
-        display: flex;
-        justify-content: space-evenly;
-        list-style-type: none;
-    }
+.social-networks {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #3a3a3a;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
 
 
 .social-networks i {
