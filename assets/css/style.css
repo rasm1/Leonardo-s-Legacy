@@ -162,7 +162,7 @@ hr {
 /* signup section */
 #signup {
     background-image: url(../css/images/signup-image.jpg);
-    background-size: cover;
+    background-size: auto;
     background-position: 75%;
     flex-grow: 1;
     padding: 20px 10% 0 10%;
