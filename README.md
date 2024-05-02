@@ -16,6 +16,36 @@ The website also contains a form in which users can submit their email to be red
 
 [View Leonardo's Legacy project here](https://rasm1.github.io/Leonardo-s-Legacy/index.html)
 
+## User Experience (UX)
+
+This website is meant to attract people who are interested in the life and works of Leonardo da Vinci and want to learn more about him.
+
+The information is structured in such a way that it can be clearly understood and followed.
+
+
+### User Stories
+
+#### First-time visitor goals
+<ul>
+			<li>Understand the main purpose of the site and to learn more about Leonardo da Vinci and his creations</li>
+			<li> Easily navigate through the site to find what the user is looking for.</li>
+			<li>Find the signup form and fill it out.</li>
+</ul>
+
+#### Returning visitor goals
+<ul>		
+			<li>Find out more information about da Vinci.</li>
+			<li>Review the site's gallery</li>
+			<li>To be redirected to sites about other great people</li>
+</ul>
+
+#### frequent user Goals
+<ul>		
+			<li>To be redirected to sites about other great people</li>
+			<li>Review the gallery for new photos</li>
+			<li>Find out more information about da Vinci</li>
+</ul>
+
 ## features
 <hr>
 
@@ -109,38 +139,22 @@ The website also contains a form in which users can submit their email to be red
 ![thank-ypu-page](assets/css/images/thank-you-page.png)
 
 ### Features Left to Implement
-	-additional images added to the gallery with explenation about what the image is.
-	-another section about da Vinci's last years alive.
-	-In the thank you page, there could be a clickable link that would redirect the user to a legacy page about a
-	diffrent great person (example: Albert Einstein)
-		
+<ul>
+	<li>additional images added to the gallery with explanation about what the image is.</li>
+	<li>another section about da Vinci's last years alive.</li>
+	</li>In the thank you page, there would be a clickable link that would redirect the user to a legacy page about diffrent great people (example: Albert Einstein)</li>
+</ul>	
 
 
-## User Experience (UX)
 
-This website is meant to attract people who are interested in the life and works of Leonardo da Vinci and want to learn more about him.
-The information is structured in such a way that it can be clearly understood and followed.
 
-	## User Stories
-		-First-time visitor goals:
-			-Understand the main purpose of the site and to learn more about Leonardo da Vinci and his creations
-			-Easily navigate through the site to find what the user is looking for.
-			-Find the signup form and fill it out.
+## Design
 
-		-Returning visitor goals:
-			- Find out more information about da Vinci.
-			-Review the site's gallery
-			-To be redirected to sites about other great people
-
-		-frequent user Goals:
-			-To be redirected to sites about other great people
-			-Review the gallery for new photos
-			-Find out more information about da Vinci.
-
-Design:
-	-Color Scheme
-		-Primary colors used on the website:
+### Color Scheme
+<ul>
+		<li>Primary colors used on this website:</li>
 			(Picture of primary hexcolors)
+ </ul>           
 	-typography
 		-Primary fonts used in the website with sans-serif as fallback font incase the prefered font will not import.
 
