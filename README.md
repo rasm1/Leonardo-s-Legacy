@@ -238,28 +238,117 @@ CSS - No errors were returned when passing the site through the official [The W3
 <li>The website has been viewed on a desktop computer, laptop and the Iphone 12 pro mobile phone</li>
 <li>Testing has been done to ensure that links internally & externally work as intended</li>
 <li>Family and friends have been asked to review the website in order to assure that user experience is satisfactory</li>
-</li>Opera dev tools have been used to ensure the website looks suitable on various screen sized</li>
+<li>Opera dev tools have been used to ensure the website looks suitable on various screen sized</li>
+<li>Family & friends have been asked to review the website's readability and contrast</li>
 </ul>
--I have confrmed that the site is responsive, looks good and functions on all standard screen sized using the dev tools toolbar.
--I have confirmed that all text on the website is readable and easy to understand.
--I have confirmed taht the signup form works, all fields have to be filled in with the appropriate content for the submission to work.
 
--I have confired that all images load properly.
--I have tested the site on the following web browsers: Opera GX, Microsoft Edge, Google Chrome.
-The site works on all of these browsers accordingly.
 
-## Validation results
-The W3c Markup Validator and W3C CSS validator services were used to validate every page of the projec to ensure there were no errors to be found.
+## Accesability
+
+### Lighthouse report
+
+#### Mobile analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](assets/css/images/lh-index-mobile.png)
+</details>
+<details>
+<summary>Gallery
+</summary>
+
+![Gallery lighthouse report](assets/css/images/lh-gallery-mobile.png)
+</details>
+<details>
+<summary>Sign Up
+</summary>
+
+![Sign Up Page lighthouse report](assets/css/images/lh-signup-mobile.png)
+</details>
+<details>
+<summary>thank-you
+</summary>
+
+![Application received lighthouse report](assets/css/images/lh-thank-you-mobile.png)
+</details>
+
+#### Desktop analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](assets/css/images/lh-index-desktop.png)
+</details>
+<details>
+<summary>Gallery
+</summary>
+
+![Gallery lighthouse report](assets/css/images/lh-gallery-desktop.png)
+</details>
+<details>
+<summary>Sign Up
+</summary>
+
+![Sign Up Page lighthouse report](assets/css/images/lh-signup-desktop.png)
+</details>
+<details>
+<summary>thank-you
+</summary>
+
+![Application received lighthouse report](assets/css/images/lh-thank-you-desktop.png)
+</details>
 	
-	
+## Deployment and local development
 
-HTML -  no errors were returned when passing the site through the official [The W3C HTML validator](https://validator.w3.org) 
+### GitHub Pages
 
-CSS - No errors were returned when passing the site through the official [The W3C CSS validator (jigsaw)](https://jigsaw.w3.org/css-validator/)
+GitHub Pages used to deploy live version of the website.
+1. Log in to GitHub and locate [GitHub Repository Leonardo-s-Legacy](https://github.com/rasm1/Leonardo-s-Legacy)
+2. At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
+3. Scroll down the Settings page until you locate "GitHub Pages".
+4. Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
+5. The page will automatically refresh.
+6. Scroll back to locate the now-published site [link](https://rasm1.github.io/Leonardo-s-Legacy/index.html) in the "GitHub Pages" section.
 
-Accesability
-	
-	-
-	
+### Forking the GitHub Repository
+
+By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
+
+1. Log in to GitHub and locate [GitHub Repository Leonardo-s-Legacy](https://github.com/rasm1/Leonardo-s-Legacy)
+2. At the top of the Repository(under the main navigation) locate "Fork" button.
+3. Now you should have a copy of the original repository in your GitHub account.
+
+### Local Clone
+
+1. Log in to GitHub and locate [GitHub Repository Leonardo-s-Legacy](https://github.com/rasm1/Leonardo-s-Legacy)
+2. Under the repository name click "Clone or download"
+3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone` and then paste The URL copied in the step 3.
+7. Press Enter and your local clone will be created.
 
 
+## Credits
+
+### Code
+ * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+
+### Content
+
+ * All content was written by the developer.
+ * [Color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) was used to decide which colors would be used for the website.
+
+### Media 
+
+ * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
+ * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
+ * [Pixlr](https://pixlr.com/) Resizing images.
+---
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+ * Slack community for encouragement and information.
