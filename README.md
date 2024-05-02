@@ -240,6 +240,17 @@ CSS - No errors were returned when passing the site through the official [The W3
 <li>Family & friends have been asked to review the website's readability and contrast</li>
 </ul>
 
+### Bugs
+
+#### Solved Bugs
+<ul>
+<li>When project the project was deployed to github pages the images would not load due to using absolute file paths</li>
+</ul>
+
+#### Unsolved bugs
+<ul>
+<li>Gallery image 3 in paintings stretches out too much in screen width 810px - 958px and 1189px - 1272px</li>
+</ul>
 
 ## Accesability
 
