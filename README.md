@@ -74,31 +74,39 @@ The website also contains a form in which users can submit their email to be red
 
 ![noteworthy-creations-section](assets/css/images/noteworthy-creations.png)
 
+#### Footer
+<ul>
+		<li>The footer section includes links to the relevant social media sites for Leonardo's Legacy. These links will open in a new tab to allow fgor easy navigation for the user</li>
+		<li>The footer is valuable to the user because it provides a way for the user to stay connected via social media.</li>
+</ul>	
 
-	-the footer
-		-The footer section includes links to the relevant social media sites for Leonardo's Legacy. These links will open in a new tab to allow fgor easy navigation for the user
-		-The footer is valuable to the user because it provides a way for the user to stay connected via social media.
-		
-		(picute of footer)
+![footer](assets/css/images/footer.png)
 
+#### Gallery
+<ul>
+		<li>The gallery will provide the user with supporting images to see more of the creations da Vinci has made.</li>
+		<li>This section is valuable to the user as it easily showcases the creations da vinci has made.</li>
+</ul>
 
-	-The Gallery
-		-The gallery will provide the user with	 supporting images to see more of the creations da Vinci has made.
-		-This section is valuable to the user as it easily showcases the creations da vinci has made.
+![gallery-paintings](assets/css/images/gallery-paintings.png)
 
-		(picture of gallery)
+![gallery-inventions](assets/css/images/gallery-inventions.png)
 
-	-The sign up page
-		-This page will allow the user to get signed up for additional information about great people's legacies.
-		The user will be able to specify what person they are interested in or if they are interested at all. The user will be asked to submit
-		their full name and email address.
+#### Sign Up page
+<ul>
+		<li>This page will allow the user to get signed up for additional information about great people's legacies.</li>
+		<li>The user will be able to specify what person they are interested in or if they are interested at all. The user will be asked to submit
+		their full name and email address.</li>
+</ul>
 
-		(picture of signup page)
+![signup-page](assets/css/images/signup-page.png)
 
-	-The thank you page
+#### Thank You Page
+<ul>
 		-This page is valuable to the user because it confirms to the user that they have been signed up.
-		
-		(picture of thank-you page)
+</ul>		
+
+![thank-ypu-page](assets/css/images/thank-you-page.png)
 
 ### Features Left to Implement
 	-additional images added to the gallery with explenation about what the image is.
