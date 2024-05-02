@@ -152,38 +152,49 @@ The information is structured in such a way that it can be clearly understood an
 
 ### Color Scheme
 <ul>
-		<li>Primary colors used on this website:</li>
-			(Picture of primary hexcolors)
- </ul>           
-	-typography
-		-Primary fonts used in the website with sans-serif as fallback font incase the prefered font will not import.
+    <li>Primary colors used on this website:</li>
+</ul>           
+
+ ![color-palette](assets/css/images/color-palette.png)
+
+ ### typography
+<ul>
+		<li>Sedan & Great vibes are the primary fonts used in the website with sans-serif as fallback font incase the prefered font will not import.</li>
+</ul>
+
+### wireframes
+<ul>
+    <li>Only pen & paper was used in the design of this project</li>
+</ul>
 
 
+## Technologies Used
 
-Technologies Used:
-	-HTML5
-	-CSS3
-	-(chatgpt for text?)
+<ul>
+	<li>HTML5</li>
+	<li>CSS3</li>
+</ul>
 
-Frameworks, libraries & programs used:
-	-gitpod
-	-to write the code
-	-git
-	-for version controll
-	-github
-	-deployment of website and stories files online
-	-google fonts
-	-import main font of the website
-	-font-awesome
-	-import (fav)icons to the website
-	-chatgpt
-	-to generate well structured content in the homepage
-	-amiresponsive
+## Frameworks, libraries & programs used
+<ul>
+	<li>gitpod</li>
+	to write the code
+	<li>git</li>
+    for version controll
+	<li>github</li>
+	deployment of website and stories files online
+	<li>google fonts</li>
+    import main font of the website
+	<li>font-awesome</li>
+	import (fav)icons to the website
+	<li>chatgpt</li>
+	to generate well structured content in the homepage 
+	<li>amiresponsive</li>
 	Mockup picture for the README file
+</ul>
 
 
-
-Testing:
+## Testing:
 -I have confrmed that the site is responsive, looks good and functions on all standard screen sized using the dev tools toolbar.
 -I have confirmed that all text on the website is readable and easy to understand.
 -I have confirmed taht the signup form works, all fields have to be filled in with the appropriate content for the submission to work.
