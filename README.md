@@ -186,7 +186,7 @@ The information is structured in such a way that it can be clearly understood an
 	<li>font-awesome</li>
 	import (fav)icons to the website
 	<li>chatgpt</li>
-	to generate well structured content in the homepage 
+	to generate text content in the homepage 
 	<li>amiresponsive</li>
 	Mockup picture for the README file
 </ul>
@@ -342,6 +342,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 ## Credits
 
 ### Code
+ * Code Institute's Love Running project served very well as an example project
  * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
  * Gallery responsiveness was learned through [adaptive photo layout with flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
  * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
