@@ -195,6 +195,51 @@ The information is structured in such a way that it can be clearly understood an
 
 
 ## Testing:
+
+HTML -  no errors were returned when passing the site through the official [The W3C HTML validator](https://validator.w3.org) 
+
+CSS - No errors were returned when passing the site through the official [The W3C CSS validator (jigsaw)](https://jigsaw.w3.org/css-validator/)
+
+### Validation results
+<details>
+<summary>index.html
+</summary>
+
+![Home Page validation result](assets/css/images/index-html-validator.png)
+</details>
+<details>
+<summary>gallery.html
+</summary>
+
+![Gallery validation result](assets/css/images/gallery-html-validator.png)
+</details>
+<details>
+<summary>sign-up.html
+</summary>
+
+![Sign Up page validation result](assets/css/images/signup-html-validator.png)
+</details>
+<details>
+<summary>thank-you.htmml
+</summary>
+
+![Application Received validation result](/assets/css/images/thank-you-html-validator.png)
+</details>
+<details>
+<summary>style.css
+</summary>
+
+![CSS validation result](/assets/css/images/css-validator.png)
+</details>
+
+### manual testing
+<ul>
+<li>The website has been tested on Opera browsers, Microsoft Edge and Google Chrome</li>
+<li>The website has been viewed on a desktop computer, laptop and the Iphone 12 pro mobile phone</li>
+<li>Testing has been done to ensure that links internally & externally work as intended</li>
+<li>Family and friends have been asked to review the website in order to assure that user experience is satisfactory</li>
+</li>Opera dev tools have been used to ensure the website looks suitable on various screen sized</li>
+</ul>
 -I have confrmed that the site is responsive, looks good and functions on all standard screen sized using the dev tools toolbar.
 -I have confirmed that all text on the website is readable and easy to understand.
 -I have confirmed taht the signup form works, all fields have to be filled in with the appropriate content for the submission to work.
