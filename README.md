@@ -29,45 +29,50 @@ The website also contains a form in which users can submit their email to be red
 
 ### Existing Features
 
-<strong>Navigation Bar</strong>
+#### Navigation Bar
 <ul>   
 	<li>It is featured and fixed on all three pages and on the thank-you page (seen once the form has been filled in)</li>
 	<li>Includes links to the logo, home page, gallery and sign up page and is identical in each page to allow for easy navigation.</li>
 	<li>This header will allow the user to easily navigate from page to page across all devices without having to use the 'back button' to go to the previous page.</li>
-	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>
-	
+	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>	
 </ul>
 
+![navigation](assets/css/images/navigation-bar.png)
 
-		(picture of navigation bar)
-		(picture of dropdown menu)
+![dropdown](assets/css/images/dropdown.png)
 
-	-The landing page image
-		-The landing page includes a portrait with text overlay to allow the user to immediatly and clearly see
-		what this website is about and what they can expect.
+#### Landing Page Image  
+<ul>
+		<li>The landing page includes a portrait with text overlay to allow the user to immediatly and clearly see
+		what this website is about and what they can expect.</li>
+ </ul>
 
-		(pic of hero image + cover-text)
+![hero-image](assets/css/images/landing-page-image.png)
 
-	-The Introduction Section
-		-This section is meant to introduce da Vinci and tell the users about what who he is, what he is known for. And what makes him so special
-		-This section is valueable because it introduces the user to the person who the biography is about. Furthermore it gets the user interested in actually learning more about him.
+#### Introduction Section
+<ul>
+		<li>This section is meant to introduce da Vinci and tell the users about what who he is, what he is known for. And what makes him so special</li>
+		<li>This section is valueable because it introduces the user to the person who the biography is about. Furthermore it gets the user interested in actually learning more about him.</li>
+</ul>
 
-		(picture of introduction page)
+![introduction-section](assets/css/images/introduction.png)
 
+#### Early Life Section
+<ul>
+		<li>This section is meant to inform the user about the early life of leonardo da vinci. </li>
+		<li>The user learns about the birthplace of da Vinci and what his formative years looked like. </li>
+        <li>The user also learns what competencies da Vinci posessed from his ealy life which aided him greatly in defining who he would later become</li>
+</ul>
 
-	-The early life section
-		-This section is meant to inform the user about the early life of leonardo da vinci. 
-		-The user learns about the birthplace of da Vinci and what his formative years looked like. The user also learns what competencies
-		da Vinci posessed from his ealy life which aided him greatly in defining who he would later become
+![early-life-section](assets/css/images/early-life.png)
 
-		(picture of early life section)
+#### Noteworthy Creations Section
+<ul>
+	<li>In this section the user will learn what da Vinci's most famous creations were. </li>
+    <li>The user will learn more about what these creations entailed and how they were made.</li>
+</ul>		
 
-	-The noteworthy creations section
-
-		-In this section the user will learn what da Vinci's most famous creations were. 
-		-The user will learn more about what these creations entailed and how they were made.
-		
-		(picture noteworthy creations)
+![noteworthy-creations-section](assets/css/images/noteworthy-creations.png)
 
 
 	-the footer
