@@ -37,7 +37,7 @@ The website also contains a form in which users can submit their email to be red
 	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>	
 </ul>
 
-![navigation](assets/css/images/navigation-bar.png)
+![navigation](/assets/css/images/navigation-bar.png)
 
 ![dropdown](assets/css/images/dropdown.png)
 
