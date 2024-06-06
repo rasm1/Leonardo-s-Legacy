@@ -161,7 +161,7 @@ hr {
 
 /* signup section */
 #signup {
-    background-image: url(../css/images/signup-image.jpg);
+    background-image: url(../images/signup-image.jpg);
     background-size: auto;
     background-position: 75%;
     flex-grow: 1;
@@ -212,7 +212,7 @@ hr {
 #hero {
     height: 600px;
     width: 100%;
-    background: url(../css/images/leonardo-hero.jpg) no-repeat center center/cover;
+    background: url(../images/leonardo-hero.jpg) no-repeat center center/cover;
     position: relative;
 }
 
