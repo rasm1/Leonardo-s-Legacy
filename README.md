@@ -245,6 +245,8 @@ CSS - No errors were returned when passing the site through the official [The W3
 #### Solved Bugs
 <ul>
 <li>When project the project was deployed to github pages the images would not load due to using absolute file paths</li>
+<li>external links to social media pages did not work on gallery, signup and thank-you page due to incorrect placement of html tags</li>
+<li>favicon and images folder were placed under the css folder, they are now placed inside of the assets folder</li>
 </ul>
 
 #### Unsolved bugs
