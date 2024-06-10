@@ -12,7 +12,7 @@ The website also contains a form in which users can submit their email to be red
  Links to our social media is included in the footer of the page.
 
 
-![Am I Responsive](assets/css/images/mockup-image.png)
+![Am I Responsive](assets/images/mockup-image.png)
 
 [View Leonardo's Legacy project here](https://rasm1.github.io/Leonardo-s-Legacy/index.html)
 
@@ -66,9 +66,9 @@ The information is structured in such a way that it can be clearly understood an
 	<li>To optimize screen usage, on smaller screens the navigation bar collapses into a dropdown menu which can be clicked to navigate to the other pages.</li>	
 </ul>
 
-![navigation](/assets/css/images/navigation-bar.png)
+![navigation](/assets/images/navigation-bar.png)
 
-![dropdown](assets/css/images/dropdown.png)
+![dropdown](assets/images/dropdown.png)
 
 #### Landing Page Image  
 <ul>
@@ -76,7 +76,7 @@ The information is structured in such a way that it can be clearly understood an
 		what this website is about and what they can expect.</li>
  </ul>
 
-![hero-image](assets/css/images/landing-page-image.png)
+![hero-image](assets/images/landing-page-image.png)
 
 #### Introduction Section
 <ul>
@@ -84,7 +84,7 @@ The information is structured in such a way that it can be clearly understood an
 		<li>This section is valuable because it introduces the user to the person who the biography is about. Furthermore it gets the user interested in actually learning more about him</li>
 </ul>
 
-![introduction-section](assets/css/images/introduction.png)
+![introduction-section](assets/images/introduction.png)
 
 #### Early Life Section
 <ul>
@@ -93,7 +93,7 @@ The information is structured in such a way that it can be clearly understood an
         <li>The user also learns what competencies da Vinci posessed from an early age which aided him greatly in defining who he would later become</li>
 </ul>
 
-![early-life-section](assets/css/images/early-life.png)
+![early-life-section](assets/images/early-life.png)
 
 #### Noteworthy Creations Section
 <ul>
@@ -101,7 +101,7 @@ The information is structured in such a way that it can be clearly understood an
     <li>The user will learn more about what these creations entailed and how they were made</li>
 </ul>		
 
-![noteworthy-creations-section](assets/css/images/noteworthy-creations.png)
+![noteworthy-creations-section](assets/images/noteworthy-creations.png)
 
 #### Footer
 <ul>
@@ -109,7 +109,7 @@ The information is structured in such a way that it can be clearly understood an
 		<li>The footer is valuable to the user because it provides a way for the user to stay connected via social media.</li>
 </ul>	
 
-![footer](assets/css/images/footer.png)
+![footer](assets/images/footer.png)
 
 #### Gallery
 <ul>
@@ -117,9 +117,9 @@ The information is structured in such a way that it can be clearly understood an
 		<li>This section is valuable to the user as it easily showcases the creations da vinci has made.</li>
 </ul>
 
-![gallery-paintings](assets/css/images/gallery-paintings.png)
+![gallery-paintings](assets/images/gallery-paintings.png)
 
-![gallery-inventions](assets/css/images/gallery-inventions.png)
+![gallery-inventions](assets/images/gallery-inventions.png)
 
 #### Sign Up page
 <ul>
@@ -129,14 +129,14 @@ The information is structured in such a way that it can be clearly understood an
 		their full name and email address.</li>
 </ul>
 
-![signup-page](assets/css/images/signup-page.png)
+![signup-page](assets/images/signup-page.png)
 
 #### Thank You Page
 <ul>
 		-This page is valuable to the user because it confirms to the user that they have been signed up.
 </ul>		
 
-![thank-ypu-page](assets/css/images/thank-you-page.png)
+![thank-ypu-page](assets/images/thank-you-page.png)
 
 ### Features Left to Implement
 <ul>
@@ -153,7 +153,7 @@ The information is structured in such a way that it can be clearly understood an
     <li>Primary colors used on this website:</li>
 </ul>           
 
- ![color-palette](assets/css/images/color-palette.png)
+ ![color-palette](assets/images/color-palette.png)
 
  ### typography
 <ul>
@@ -203,31 +203,31 @@ CSS - No errors were returned when passing the site through the official [The W3
 <summary>index.html
 </summary>
 
-![Home Page validation result](assets/css/images/index-html-validator.png)
+![Home Page validation result](assets/images/index-html-validator.png)
 </details>
 <details>
 <summary>gallery.html
 </summary>
 
-![Gallery validation result](assets/css/images/gallery-html-validator.png)
+![Gallery validation result](assets/images/gallery-html-validator.png)
 </details>
 <details>
 <summary>sign-up.html
 </summary>
 
-![Sign Up page validation result](assets/css/images/signup-html-validator.png)
+![Sign Up page validation result](assets/images/signup-html-validator.png)
 </details>
 <details>
 <summary>thank-you.htmml
 </summary>
 
-![Application Received validation result](/assets/css/images/thank-you-html-validator.png)
+![Application Received validation result](/assets/images/thank-you-html-validator.png)
 </details>
 <details>
 <summary>style.css
 </summary>
 
-![CSS validation result](/assets/css/images/css-validator.png)
+![CSS validation result](/assets/images/css-validator.png)
 </details>
 
 ### manual testing
@@ -261,25 +261,25 @@ CSS - No errors were returned when passing the site through the official [The W3
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report](assets/css/images/lh-index-mobile.png)
+![Home Page lighthouse report](assets/images/lh-index-mobile.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report](assets/css/images/lh-gallery-mobile.png)
+![Gallery lighthouse report](assets/images/lh-gallery-mobile.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Sign Up Page lighthouse report](assets/css/images/lh-signup-mobile.png)
+![Sign Up Page lighthouse report](assets/images/lh-signup-mobile.png)
 </details>
 <details>
 <summary>thank-you
 </summary>
 
-![Application received lighthouse report](assets/css/images/lh-thank-you-mobile.png)
+![Application received lighthouse report](assets/images/lh-thank-you-mobile.png)
 </details>
 
 #### Desktop analysis
@@ -287,25 +287,25 @@ CSS - No errors were returned when passing the site through the official [The W3
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report](assets/css/images/lh-index-desktop.png)
+![Home Page lighthouse report](assets/images/lh-index-desktop.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report](assets/css/images/lh-gallery-desktop.png)
+![Gallery lighthouse report](assets/images/lh-gallery-desktop.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Sign Up Page lighthouse report](assets/css/images/lh-signup-desktop.png)
+![Sign Up Page lighthouse report](assets/images/lh-signup-desktop.png)
 </details>
 <details>
 <summary>thank-you
 </summary>
 
-![Application received lighthouse report](assets/css/images/lh-thank-you-desktop.png)
+![Application received lighthouse report](assets/images/lh-thank-you-desktop.png)
 </details>
 	
 ## Deployment and local development
